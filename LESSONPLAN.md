@@ -20,10 +20,6 @@ The first week of this practical will be focused on ensuring all of the programs
 
 The students will ensure the necessary software is correctly installed using an interactive Jupyter notebook. The students will then continue to perform short molecular dynamics simulations on generated structures of simple materials. The students will manipulate the input files to examine how modifying simulation parameters such as temperature and statistical ensemble influence system properties such as energy, volume and structure.
 
-##### Assesment
-
-- 
-
 ### Week 2 - Introduction to Molecular Dynamics
 
 Computational chemistry is often used in undergraduate laboratory exercises as a "black box". However, this is likely to reduce student engagement, as while the application is clear, the unlying mechanics are not. 
@@ -42,7 +38,7 @@ The second week of this practical will be focused on refreshing material from th
 
 The will be a self-led workshop where students will (in their own time) be able to work through an interactive Jupyter notebook, which will detail the mechanism of atomistic simulation. At the end, the students will use the pylj framework to build a simple molecular dynamics simulation and use this to preform a straight-forward application of molecular dynamics. This application will involve running simulations at a series of different atomic densities to reflect on the effect of density on a *typical* ideal gas system.
 
-This will likely take three quarters of the day and students are welcome to begin the week 2 tutorial. 
+This will likely take three quarters of the day and students are welcome to begin the week 3 tutorial. 
 
 ##### Assesment
 
@@ -50,7 +46,7 @@ This will likely take three quarters of the day and students are welcome to begi
 
 ### Week 3 - Introduction to Transport Properties
 
-The transport proerties of a material are crucial for many modern technologies, from batteries/fuel cells to nuclear materials. Week two of this practical will allow students to apply their understanding of molecular dynamics simulations, from week one, and apply it to some *real world* applications. The students will run molecular dynamics simulations on fluorite (CaF<sub>2</sub>), and analyse the transport properties of the material.
+The transport proerties of a material are crucial for many modern technologies, from batteries/fuel cells to nuclear materials. Week three of this practical will allow students to apply their understanding of molecular dynamics simulations, from week two, and apply it to some *real world* applications. The students will run molecular dynamics simulations on fluorite (CaF<sub>2</sub>), and analyse the transport properties of the material to determine temperature range when CaF<sub>2</sub> is superionic and to find the activation energy for F migration in this range.
 
 #### Learning Outcomes
 
@@ -59,7 +55,7 @@ The transport proerties of a material are crucial for many modern technologies, 
 
 #### Lesson Plan
 
-The students will run a molecular dynamics simulation of CaF<sub>2</sub> before running through a Jupyter notebook tutorial detailing how a mean squared displacment may be determined. Following this the molecular dynamics simulation will be repeated at a series of different temperatures, with the mean square displacement determined each time and the data used to investigate the Arrhenius relationship.
+The students will run a molecular dynamics simulation of CaF<sub>2</sub> before running through a Jupyter notebook tutorial detailing how a mean squared displacment may be determined. Following this the molecular dynamics simulation will be repeated at a series of different temperatures, with the mean square displacement determined each time and the data used to investigate the Arrhenius relationship. 
 
 #### Assesment
 
@@ -72,7 +68,9 @@ As with people, no material is without defects. There are two main types of defe
 - Frenkel defects -- an atom is displaced in the lattice to an interstitial site; creaing a vacancy,
 - Schottky defects -- a formula unit is missing from the lattice, creating (usually) a pair of vacancies.
 
-Week 3 will see the students introducing Frenkel and Schottky defects to their CaF<sub>2</sub> configurations from the previous week. They will determine the effect that these defects have on the transport properties studied previously. In this week the students are expected to apply the skills that they have learned in Weeks 1 and 2 to design their own simulations.
+Week 4 will see the students introducing Schottky defects to their CaF<sub>2</sub> configurations from the previous week. They will determine the effect that these defects have on the transport properties studied previously. In this week the students are expected to apply the skills that they have learned in weeks 2 and 3 to design their own simulations.
+
+Week 5 will see the students introducing Frenkel defects to their CaF<sub>2</sub> configurations from the previous week They will determine the effect that these defects have on the transport properties studied previously. In this week the students are expected to apply the skills that they have learned in weeks 2 and 3 to design their own simulations.
 
 #### Learning Outcomes
 
@@ -89,7 +87,7 @@ This process of this week ultimately lays with the student. However, the expecta
 
 ### Weeks 6 and 7 - Dopants
 
-The doping of a material with different elements in order to obtain a desired property is now common practice, particularly for fuel cell materials, for example CeO<sub>2</sub> is doped with Gd<sup>3+</sup> to improve the oxygen transport, and therefore conductivity of the material. In this final week, students will investigate how the doping of cations into the CaF<sub>2</sub> structure affects the transport properties. Is it possible to increase the diffusion coefficient over the undoped material.
+The doping of a material with different elements in order to obtain a desired property is now common practice, particularly for fuel cell materials, for example CeO<sub>2</sub> is doped with Gd<sup>3+</sup> to improve the oxygen transport, and therefore conductivity of the material. In this final data generation week, students will investigate how the doping of cations into the CaF<sub>2</sub> structure affects the transport properties. Is it possible to increase the diffusion coefficient over the undoped material.
 
 #### Learning Outcomes
 
@@ -98,15 +96,24 @@ The doping of a material with different elements in order to obtain a desired pr
 
 #### Lesson Plan
 
-As with week three, this process ultimately lays with the student. The expectation is that the student will select four or five relevant cations to add to the CaF<sub>2</sub> structure and determine the diffusion coefficient of each.
+As with weeks four and five, this process ultimately lays with the student. The expectation is that the student will select four or five relevant cations to add to the CaF<sub>2</sub> structure and determine the diffusion coefficient of each.
 
 #### Assesment
 
 - Key Report Question - How do dopants affect the tranport properties?   
 
+
+### Week 8 - Data Collection
+
+This week allows the students to collate the data collected by the group and to perform any remaining calculations necessary. 
+
+### Week 9 - Report Writing
+
+This week allows the student to write up the bulk of their report.
+
 ### Summary
 
-Over the 4 weeks, the students will transition from a being lead through and introduction to molecular dynamics and shown how to run molecular simulation to being able to research independently the properties of a material. Week one will focus on the underlaying theory of molecular simulation, week two will introduce the students to the process of running molecular dynamics simulations. While, in weeks three and four the students are expected to independently apply this knowledge to design simulation that answer questions common to computational chemists.
+Over the 9 weeks, the students will transition from a being lead through and introduction to molecular dynamics and shown how to run molecular simulation to being able to research independently the properties of a material. Week one will focus on an introduction to molecular dynamics, week two will introduce the underlaying theory of molecular simulation, week three will introduce the students to the process of running molecular dynamics simulations. While, in weeks four through seven the students are expected to independently apply this knowledge to design simulation that answer questions common to computational chemists.
 
 ### References
 
