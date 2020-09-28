@@ -1,5 +1,7 @@
 # Lesson Plan
 
+This lesson plan is intended to be a suggestion of pace, please feel free to work through the material at your own pace. You have 10 weeks to complete this material. 
+
 ### Week 1 - Testing and Introduction to Molecular Dynamics
 
 The first week of this practical will be focused on ensuring all of the programs necessary to perform simulations and analysis throughout this course are correctly installed. The students will then run a quick molecular dynamics simulation on generated structures of simple materials using DL_POLY.
@@ -61,7 +63,7 @@ The students will run a molecular dynamics simulation of CaF<sub>2</sub> before 
 - Mean squared displacement and Arrhenius relationship theory will form part of the methodology portion of the students report.
 - The data measured will form components of the students' results.
 
-### Week 4 - Defect Chemistry
+### Weeks 4 and 5 - Defect Chemistry
 
 As with people, no material is without defects. There are two main types of defect that exist in materials,
 - Frenkel defects -- an atom is displaced in the lattice to an interstitial site; creaing a vacancy,
@@ -82,7 +84,7 @@ This process of this week ultimately lays with the student. However, the expecta
 
 - Key Report Question - How do Frenkel/Schottky defects affect the transport properties?
 
-### Week 5 - Dopants
+### Weeks 6 and 7 - Dopants
 
 The doping of a material with different elements in order to obtain a desired property is now common practice, particularly for fuel cell materials, for example CeO<sub>2</sub> is doped with Gd<sup>3+</sup> to improve the oxygen transport, and therefore conductivity of the material. In this final week, students will investigate how the doping of cations into the CaF<sub>2</sub> structure affects the transport properties. Is it possible to increase the diffusion coefficient over the undoped material.
 
