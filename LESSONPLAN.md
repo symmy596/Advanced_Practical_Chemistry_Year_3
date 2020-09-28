@@ -2,7 +2,9 @@
 
 ### Week 1 - Introduction to Molecular Dynamics
 
-Computational chemistry is often used in undergraduate laboratory exercises as a "black box". However, this is likely to reduce student engagement, as while the application is clear, the unlying mechanics are not. The first week of this practical will be focused on refreshing material from the second year "Introduction to computational chemistry" (CH20238) lecture module by allowing the students to interact directly with atomistic molecular dynamics simulations using the pylj software [1].
+Computational chemistry is often used in undergraduate laboratory exercises as a "black box". However, this is likely to reduce student engagement, as while the application is clear, the unlying mechanics are not. 
+
+The first week of this practical will be focused on refreshing material from the second year "Introduction to computational chemistry" (CH20238) lecture module by allowing the students to interact directly with atomistic molecular dynamics simulations using the pylj software [1].
 
 #### Learning Outcomes
 
