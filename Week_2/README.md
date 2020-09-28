@@ -1,6 +1,6 @@
 # Advanced Chemistry Practical - Computational
 ## University of Bath, Department of Chemistry
-### Week 1
+### Week 2
 
 ### Part 1
 
@@ -22,7 +22,7 @@ You can now launch the Jupyter notebook from this command line by typing
 jupyter notebook
 ```
 
-The first notebook that you should open is that entitled `week_1.ipynb`. 
+The first notebook that you should open is that entitled `week_2.ipynb`. 
 
 The notebook will launch in your C drive. This is unfortunate because your C drive will automatically wipe when you log off. So make sure you save the repo elsewhere before you log off. Hopefully BUCS will fix this issue in the coming days.
 
