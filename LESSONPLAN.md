@@ -5,8 +5,6 @@
 This lesson plan is intended to be a suggestion of pace, please feel free to work through the material at your own pace. 
 You have 10 weeks to complete this material. 
 
-<br/>
-
 ### Week 1 - Testing and Introduction to Molecular Dynamics
 
 The first week of this practical will be focused on ensuring all of the programs necessary to perform simulations and analysis throughout this course are correctly installed. The students will then run a quick molecular dynamics simulation on generated structures of simple materials using DL_POLY.
