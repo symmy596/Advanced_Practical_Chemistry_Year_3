@@ -3,7 +3,7 @@
 <br/>
 
 This lesson plan is intended to be a suggestion of pace, please feel free to work through the material at your own pace. 
-You have 10 weeks to complete this material. 
+You have 9 weeks to complete this material. 
 
 ### Week 1 - Testing and Introduction to Molecular Dynamics
 
