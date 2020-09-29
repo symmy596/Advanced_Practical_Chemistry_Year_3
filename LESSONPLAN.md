@@ -7,14 +7,14 @@ You have 10 weeks to complete this material.
 
 ### Week 1 - Testing and Introduction to Molecular Dynamics
 
-The first week of this practical will be focused on ensuring all of the programs necessary to perform simulations and analysis throughout this course are correctly installed. The students will then run a quick molecular dynamics simulation on generated structures of simple materials using DL_POLY.
+The first week of this practical will be focused on ensuring all of the programs necessary to perform simulations and analysis throughout this course are correctly installed. The students will then run a quick molecular dynamics simulation on generated structures of simple materials using <code>DL_POLY</code>.
 
 #### Learning Outcomes
 
-- Familarise themselves with the Anaconda Prompt, Jupyter Notebooks, Microsoft Teams, DL_POLY< METADISE, VESTA, and VMD.
-- Utilise the molecular dynamics software package DL_POLY to perform a simple ideal gas simulation.
-- Modify DL_POLY input files and examine DL_POLY output files.
-- Utilise VMD to perform simple analysis of system properties.
+- Familarise themselves with the Anaconda Prompt, Jupyter Notebooks, Microsoft Teams, <code>DL_POLY</code>, <code>METADISE</code>, <code>VESTA</code>, and <code>VMD</code>.
+- Utilise the molecular dynamics software package <code>DL_POLY</code> to perform a simple ideal gas simulation.
+- Modify <code>DL_POLY</code> input files and examine <code>DL_POLY</code> output files.
+- Utilise <code>VMD</code> to perform simple analysis of system properties.
 
 #### Lesson Plan
 
