@@ -11,7 +11,7 @@ The first week of this practical will be focused on ensuring all of the programs
 
 #### Learning Outcomes
 
-- Familarise themselves with the Anaconda Prompt, Jupyter Notebooks, Microsoft Teams, <code>DL_POLY</code>, <code>METADISE</code>, <code>VESTA</code>, and <code>VMD</code>.
+- Familarise themselves with the <code>Anaconda Prompt</code>, <code>Jupyter Notebooks</code>, <code>Microsoft Teams</code>, <code>DL_POLY</code>, <code>METADISE</code>, <code>VESTA</code>, and <code>VMD</code>.
 - Utilise the molecular dynamics software package <code>DL_POLY</code> to perform a simple ideal gas simulation.
 - Modify <code>DL_POLY</code> input files and examine <code>DL_POLY</code> output files.
 - Utilise <code>VMD</code> to perform simple analysis of system properties.
@@ -24,7 +24,7 @@ The students will ensure the necessary software is correctly installed using an 
 
 Computational chemistry is often used in undergraduate laboratory exercises as a "black box". However, this is likely to reduce student engagement, as while the application is clear, the unlying mechanics are not. 
 
-The second week of this practical will be focused on refreshing material from the second year "Introduction to computational chemistry" (CH20238) lecture module by allowing the students to interact directly with atomistic molecular dynamics simulations using the pylj software [1].
+The second week of this practical will be focused on refreshing material from the second year "Introduction to computational chemistry" (CH20238) lecture module by allowing the students to interact directly with atomistic molecular dynamics simulations using the <code>pylj</code> software [1].
 
 #### Learning Outcomes
 
@@ -36,7 +36,7 @@ The second week of this practical will be focused on refreshing material from th
 
 #### Lesson Plan
 
-The will be a self-led workshop where students will (in their own time) be able to work through an interactive Jupyter notebook, which will detail the mechanism of atomistic simulation. At the end, the students will use the pylj framework to build a simple molecular dynamics simulation and use this to preform a straight-forward application of molecular dynamics. This application will involve running simulations at a series of different atomic densities to reflect on the effect of density on a *typical* ideal gas system.
+The will be a self-led workshop where students will (in their own time) be able to work through an interactive <code>Jupyter notebook</code>, which will detail the mechanism of atomistic simulation. At the end, the students will use the <code>pylj</code> framework to build a simple molecular dynamics simulation and use this to preform a straight-forward application of molecular dynamics. This application will involve running simulations at a series of different atomic densities to reflect on the effect of density on a *typical* ideal gas system.
 
 This will likely take three quarters of the day and students are welcome to begin the week 3 tutorial. 
 
@@ -55,7 +55,7 @@ The transport proerties of a material are crucial for many modern technologies, 
 
 #### Lesson Plan
 
-The students will run a molecular dynamics simulation of CaF<sub>2</sub> before running through a Jupyter notebook tutorial detailing how a mean squared displacment may be determined. Following this the molecular dynamics simulation will be repeated at a series of different temperatures, with the mean square displacement determined each time and the data used to investigate the Arrhenius relationship. 
+The students will run a molecular dynamics simulation of CaF<sub>2</sub> before running through a <code>Jupyter notebook</code> tutorial detailing how a mean squared displacment may be determined. Following this the molecular dynamics simulation will be repeated at a series of different temperatures, with the mean square displacement determined each time and the data used to investigate the Arrhenius relationship. 
 
 #### Assesment
 
