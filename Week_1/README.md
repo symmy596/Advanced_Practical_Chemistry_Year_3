@@ -34,7 +34,7 @@ You should be able to test the programs by following the instructions in the Jup
 Having ensured that the programs we require are correctly installed, we can run a short molecular dynamics simulation. 
 Running the simulation involves a combination of following the instructions in the Jupyter Notebook and running commands on your local machine.
 
-**Once you have completed the exercise, please upload the REVCON output file as:**
+**Once you have completed the exercise, please upload the <code>REVCON</code> output file as:**
 
 <code>REVCON_surname_forename</code> to the **"General" Team** in MS Teams.
 
