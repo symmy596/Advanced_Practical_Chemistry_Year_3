@@ -111,6 +111,10 @@ This week allows the students to collate the data collected by the group and to 
 
 This week allows the student to write up the bulk of their report.
 
+### Week 10 - Report Submission
+
+The report is due to be submitted in the tenth and final week.
+
 ### Summary
 
 Over the 9 weeks, the students will transition from a being lead through and introduction to molecular dynamics and shown how to run molecular simulation to being able to research independently the properties of a material. Week one will focus on an introduction to molecular dynamics, week two will introduce the underlaying theory of molecular simulation, week three will introduce the students to the process of running molecular dynamics simulations. While, in weeks four through seven the students are expected to independently apply this knowledge to design simulation that answer questions common to computational chemists.
