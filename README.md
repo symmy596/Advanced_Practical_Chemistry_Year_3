@@ -1,5 +1,5 @@
 # Advanced Chemistry Practical - Computational
-## University of Bath, Department of Chemistry 2019-2020
+## University of Bath, Department of Chemistry 2020-2021
 ### Introduction
 
 Welcome to the advanced chemistry practical - computational. In this eight week practical you will:
