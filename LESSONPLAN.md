@@ -31,7 +31,7 @@ The second week of this practical will be focused on refreshing material from th
 - Understand the concepts of the Lennard-Jones potential and how it can be used in the modeling of atomic particles.
 - Describe the Coulomb potential, and its importance in the modeling of ionic systems.
 - Recognise the *recipe* associated with a molecular dynamics simulation.
-- Be able to build a molecular dynamics simulation, using the pylj framework.
+- Be able to build a molecular dynamics simulation, using the <code>pylj</code> framework.
 - Utilise the molecular dynamics simulation to study a system deviating from ideal gas behaviour.
 
 #### Lesson Plan
