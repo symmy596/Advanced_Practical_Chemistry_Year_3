@@ -1,5 +1,5 @@
 # Advanced Chemistry Practical - Computational
-## University of Bath, Department of Chemistry 2019-2020
+## University of Bath, Department of Chemistry 2020-2021
 ### Introduction
 
 Welcome to the advanced chemistry practical - computational. In this eight week practical you will:
@@ -17,7 +17,7 @@ Before going any further you should ensure that you have downloaded both this re
 
 In this repository you will find four folders containing the material for each week of the course. There is a README file in each folder explaining what you need to do to get started on that week.
 
-Once you have downloaded, unzipped the material and organised your repository, please go to [`Week_1`](https://github.com/symmy596/Bath_University_Advanced_Practical_Chemistry_Year_2/tree/master/Week_1).  
+Once you have downloaded, unzipped the material and organised your repository, please go to [`Week_1`](https://github.com/MeganStalker/Advanced_Practical_Chemistry_Year_3/tree/master/Week_1).  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3474996.svg)](https://doi.org/10.5281/zenodo.3474996)
 
